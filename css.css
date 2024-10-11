@@ -1,0 +1,48 @@
+body{
+    background-color: cadetblue;
+}
+#FB{
+    color: blue;
+    text-align: center;
+    text-decoration: dotted;
+    text-shadow: black;
+    font-size: large;
+    border: solid black;
+    border-collapse: collapse;
+    width: 15%;
+    display: inline-block;
+    margin: 15px;
+
+}
+#YT{
+    color: Red;
+    width: 270px;
+    border: solid black;
+    display: inline-block;
+    margin: 15px;
+}
+#R{
+    color: orangered;
+    width: 15%;
+    border: solid black;
+    display: inline-block;
+    margin: 15px;
+}
+#Blue_Bird{
+    color: lightblue;
+    width: 15%;
+    margin: 15px;
+    border: solid black;
+    display: inline-block;
+}
+#cancer{
+    width: 15%;
+    margin: 15px;
+    border: solid black;
+    display: inline-block;
+    color: black;
+
+}
+p{
+    padding: 25px;
+}
